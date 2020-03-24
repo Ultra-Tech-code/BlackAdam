@@ -1,0 +1,5 @@
+FullName - ADEWALE IYANUOLUWA ISAAC.
+Email Address - Hizick27@gmail.com.
+Slack Username - BlackAdam.
+Tracks - Frontend and Backend.
+Courses - Frontend(HTML,CSS,JS) and Backend(Nodejs,Python).
